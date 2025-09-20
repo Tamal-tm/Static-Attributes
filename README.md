@@ -15,7 +15,7 @@ Useful for values that should be consistent for every object created from the cl
 
 Declared using the @staticmethod decorator.
 
-Do not depend on a specific object (self) or the class itself (cls).
+Do not depend on a specific object (self) or the class itself.
 
 Work like normal functions but are logically grouped inside a class.
 
